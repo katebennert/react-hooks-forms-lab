@@ -1,3 +1,4 @@
+
 const items = [
   { id: 1, name: "Yogurt", category: "Dairy" },
   { id: 2, name: "Pomegranate", category: "Produce" },
